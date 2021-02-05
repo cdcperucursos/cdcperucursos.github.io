@@ -4,6 +4,18 @@ Sílabo del curso: [sílabo](/archivos/silabo.pdf)
 
 Bienvenidos al curso, nuestros objetivos son los siguientes:
 
-1. 
+1. Utilizar R para ejemplos reproducibles. 
+
 2.
 
+El material del curso se encuentra basado en la siguiente referencia de 
+
+### Día 1: Introducción a R 
+
+### Día 2: Estructuras de Datos
+
+### Día 3: Dplyr y Control de Flujo
+
+### Día 4: ggplot2
+
+### Día 5: Sesión de Taller
