@@ -8,7 +8,7 @@ Bienvenidos al curso, nuestros objetivos son los siguientes:
 
 2. Utlizar R para resolver y entender problemas de epidemiología. 
 
-El material del curso se encuentra basado en la siguiente referencia de 
+El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
 
 ### Día 1: Introducción a R 
 
