@@ -6,7 +6,7 @@ Bienvenidos al curso, nuestros objetivos son los siguientes:
 
 1. Utilizar R para ejemplos reproducibles. 
 
-2.
+2. Utlizar R para resolver y entender problemas de epidemiología. 
 
 El material del curso se encuentra basado en la siguiente referencia de 
 
