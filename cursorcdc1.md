@@ -2,7 +2,7 @@
 
 Sílabo del curso: [sílabo](/archivos/silabo.pdf)
 
-Bienvenidos al curso, nuestros objetivos son los siguientes:
+Bienvenidos al curso introductorio de R del CDC. Nuestros principales objetivos son los siguientes:
 
 1. Utilizar R para ejemplos reproducibles. 
 
