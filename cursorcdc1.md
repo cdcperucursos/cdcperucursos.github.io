@@ -10,6 +10,8 @@ Bienvenidos al curso introductorio de R del CDC. Nuestros principales objetivos 
 
 El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
 
+Como manual de instalación, se puede consultar el siguiente [recurso](/archivos/instalacion.pdf)
+
 ### Día 1: Introducción a R 
 
 ### Día 2: Estructuras de Datos
