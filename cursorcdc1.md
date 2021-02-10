@@ -32,6 +32,8 @@ En la siguiente página web, se colgarán materiales del curso, como scripts de 
 
 ### Día 3: Dplyr y Control de Flujo
 
+[Tarea 3](/archivos/dia3/tarea_dia3.pdf)
+
 ### Día 4: ggplot2
 
 ### Día 5: Sesión de Taller
