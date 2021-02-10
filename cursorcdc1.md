@@ -26,6 +26,8 @@ En la siguiente página web, se colgarán materiales del curso, como scripts de 
 
 ### Día 2: Estructuras de Datos
 
+[Tarea 2](/archivos/dia2/tarea_dia2.pdf)
+
 ### Día 3: Dplyr y Control de Flujo
 
 ### Día 4: ggplot2
