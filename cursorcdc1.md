@@ -24,6 +24,8 @@ En la siguiente página web, se colgarán materiales del curso, como scripts de 
 
 ### Día 1: Introducción a R 
 
+[Tarea 1](/archivos/dia1/tarea_dia1.pdf)
+
 ### Día 2: Estructuras de Datos
 
 [Tarea 2](/archivos/dia2/tarea_dia2.pdf)
