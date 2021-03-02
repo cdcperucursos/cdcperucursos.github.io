@@ -6,9 +6,9 @@
 
 **Hora: 11 am - 1 pm** 
 
-**Lugar: https://minsa-gob-pe.zoom.us/j/81514118992, código: 091276**
+**Lugar: https://minsa-gob-pe.zoom.us/j/83161297877, código: 323057**
 
-Bienvenidos al curso introductorio de R del CDC. Nuestros principales objetivos son los siguientes:
+Nuestros principales objetivos son los siguientes:
 
 1. Utilizar R para ejemplos reproducibles. 
 
@@ -54,7 +54,7 @@ El material del curso se encuentra basado en la siguiente referencia de [Softwar
 
 ### Día 1: Instrucciones Generales
 
-En el desarrollo del siguiente curso, se **requiere descargar R y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
+En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r-project.org/mirrors.html) (escoger cualquier mirror) y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
 
 **Vídeo sobre como instalar R:** [https://youtu.be/D9Bp11iZssc](https://youtu.be/D9Bp11iZssc) 
 
