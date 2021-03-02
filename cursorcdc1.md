@@ -60,23 +60,56 @@ En el desarrollo del siguiente curso, se **requiere descargar R y un IDE o edito
 
 ### Día 2: Introducción a R
 
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 1
+Materiales adicionales -->
+
 ### Día 3: Gestión de proyectos y estructuras de datos
 
-[Tarea 2](/archivos/dia2/tarea_dia2.pdf)
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 2
+Materiales adicionales -->
 
 ### Día 4: Manipulación de datos con dplyr - Parte 1
 
-[Tarea 3](/archivos/dia3/tarea_dia3.pdf)
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 3
+Materiales adicionales -->
 
 ### Día 5: Manipulación de datos con dplyr - Parte 2
 
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 4
+Materiales adicionales -->
+
 ### Día 6: Manipulación de datos con dplyr - Parte 3
+
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 5
+Materiales adicionales -->
 
 ### Día 7: Creando gráficas con ggplot2 - Parte 1
 
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 6
+Materiales adicionales -->
+
 ### Día 8: Creando gráficas con ggplot2 - Parte 2
 
+<!-- Teoría de la clase
+Ejercicios de práctica
+Tarea 7
+Materiales adicionales -->
+
 ### Día 9: Taller Práctico
+
+<!-- Ejercicios de práctica -->
 
 ## Materiales de Consulta
 
