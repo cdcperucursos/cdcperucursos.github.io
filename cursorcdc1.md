@@ -56,26 +56,48 @@ El material del curso se encuentra basado en la siguiente referencia de [Softwar
 
 En el desarrollo del siguiente curso, se **requiere descargar R y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
 
-**Vídeo sobre como instalar R:** [](https://youtu.be/D9Bp11iZssc) 
+**Vídeo sobre como instalar R:** [https://youtu.be/D9Bp11iZssc](https://youtu.be/D9Bp11iZssc) 
 
-### Día 2: Estructuras de Datos
+### Día 2: Introducción a R
+
+### Día 3: Gestión de proyectos y estructuras de datos
 
 [Tarea 2](/archivos/dia2/tarea_dia2.pdf)
 
-### Día 3: Dplyr y Control de Flujo
+### Día 4: Manipulación de datos con dplyr - Parte 1
 
 [Tarea 3](/archivos/dia3/tarea_dia3.pdf)
 
-### Día 4: ggplot2
+### Día 5: Manipulación de datos con dplyr - Parte 2
 
-### Día 5: Sesión de Taller
+### Día 6: Manipulación de datos con dplyr - Parte 3
+
+### Día 7: Creando gráficas con ggplot2 - Parte 1
+
+### Día 8: Creando gráficas con ggplot2 - Parte 2
+
+### Día 9: Taller Práctico
 
 ## Materiales de Consulta
 
 ### Referencias Generales
 
+- Temario y material de referencia de Software Carpentry: [https://swcarpentry.github.io/r-novice-gapminder-es/reference](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
+- Libro de referencia online en español: [https://r4ds-en-espaniol.netlify.app/](https://r4ds-en-espaniol.netlify.app/ )
+- RStudio primers: [https://rstudio.cloud/learn/primers](https://rstudio.cloud/learn/primers)
+- Referencia paquetes tidyverse: [https://www.tidyverse.org/](https://www.tidyverse.org/ )
+- Cheatsheet (hojas de truco): [https://rstudio.com/resources/cheatsheets/](https://rstudio.com/resources/cheatsheets/ )
+- Material introductorio del RECON learn: [https://www.reconlearn.org/post/practical-intror.html](https://www.reconlearn.org/post/practical-intror.html)
+
 ### Referencias dplyr
+
+- Referencias del paquete: [https://dplyr.tidyverse.org/](https://dplyr.tidyverse.org/)
 
 ### Referencia ggplot2
 
+- Referencias del paquete: [https://ggplot2.tidyverse.org/reference/](https://ggplot2.tidyverse.org/reference/)
+- Mireia Ramos-Rodríguez. Improve your plots with ggplot2. R-Ladies Barcelona Workshop. 2019-10-16. Adaptado al español y modificado por Andree Valle Campos [https://avallecam.github.io/workshop_ggplot2/presentation_ggplot2.html#1](https://avallecam.github.io/workshop_ggplot2/presentation_ggplot2.html#1)
+
 ### Otros paquetes
+
+- Referencias del paquete: [https://lubridate.tidyverse.org/](https://lubridate.tidyverse.org/)
