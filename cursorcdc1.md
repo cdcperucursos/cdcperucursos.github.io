@@ -2,9 +2,9 @@
 
 **Sílabo del curso: [sílabo](/archivos/silaboupdated.pdf)**
 
-**Fecha: 8 Feb. 2021 - 12 Feb. 2021**
+**Fecha: 08 Mar. 2021 - 19 Mar. 2021**
 
-**Hora: 11 am** 
+**Hora: 11 am - 1 pm** 
 
 **Lugar: https://minsa-gob-pe.zoom.us/j/81514118992, código: 091276**
 
