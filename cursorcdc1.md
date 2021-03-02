@@ -1,6 +1,6 @@
 ## Bienvenidos al curso de R (nociones básicas!)
 
-**Sílabo del curso: [sílabo](/archivos/silabo.pdf)**
+**Sílabo del curso: [sílabo](/archivos/silaboupdated.pdf)**
 
 **Fecha: 8 Feb. 2021 - 12 Feb. 2021**
 
@@ -14,17 +14,49 @@ Bienvenidos al curso introductorio de R del CDC. Nuestros principales objetivos 
 
 2. Utlizar R para resolver y entender problemas de epidemiología. 
 
-El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
+## Descripción del desarrollo del curso:
 
-En el desarrollo del siguiente curso, se **requiere descargar R y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
+El curso se desarrollará aplicando las siguientes estratégias:
+
+**Sesiones teóricas:** Se realizarán en sesiones únicas que permitirán introducir a los participantes en el tema
+
+**Sesiones prácticas:** Se realizarán ejercicios en pequeños grupos con un tutor asignado
+
+**Sesiones de consulta:** Se destinará un horario por día, para que un tutor pueda responder algunas dudas enviadas por el chat grupal. 
+
+## Organización
+
+**Coordinador del Curso:** Gabriela Soto (Unidad de Investigación Epidemiológica y Evaluación de Intervenciones Sanitarias CDC-MINSA)
+
+**Docentes tutores**
+
+- Diana Cáceres
+- Luis Ledesma
+- Kevin Martell
+- Jean Pierre Velasquez
+- Jenny Chirinos
+- Gabriela Soto
+
+**Duración del curso**
+
+- 2 semanas (08 al 19 de Marzo del 2021)
+- 10 sesiones, Lunes a Viernes de 11:00 a 13:00 hrs.
+
+**Modalidad: Virtual, vía Zoom - CDC**
+
+**Descargue el sílabo del curso:** [sílabo](/archivos/silaboupdated.pdf)
 
 En la siguiente página web, se colgarán materiales del curso, como scripts de R o diapositivas que generen los instructores durante las clases. 
 
 [Materiales del curso](https://drive.google.com/drive/folders/1zcNci8RT4nujs19Knv20NuEO1gMMU-xn?usp=sharing).
 
-### Día 1: Introducción a R 
+El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
 
-[Tarea 1](/archivos/dia1/tarea_dia1.pdf)
+### Día 1: Instrucciones Generales
+
+En el desarrollo del siguiente curso, se **requiere descargar R y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
+
+**Vídeo sobre como instalar R:** [](https://youtu.be/D9Bp11iZssc) 
 
 ### Día 2: Estructuras de Datos
 
@@ -37,3 +69,13 @@ En la siguiente página web, se colgarán materiales del curso, como scripts de 
 ### Día 4: ggplot2
 
 ### Día 5: Sesión de Taller
+
+## Materiales de Consulta
+
+### Referencias Generales
+
+### Referencias dplyr
+
+### Referencia ggplot2
+
+### Otros paquetes
