@@ -32,8 +32,8 @@ El curso se desarrollará aplicando las siguientes estratégias:
 
 - Diana Cáceres
 - Luis Ledesma
-- Kevin Martell
-- Jean Pierre Velasquez
+- Kevin Martel
+- Pierre Velasquez
 - Jenny Chirinos
 - Gabriela Soto
 
