@@ -60,9 +60,7 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 ### Día 2: Introducción a R
 
-[Teoría de la clase](https://drive.google.com/drive/folders/1_w-pPL2_eh3rTWwWobvA9cy3WrgZXGWh?usp=sharing)
-<!-- [Ejercicios de práctica]
-[Tarea 1] -->
+[Teoría de la clase](https://drive.google.com/drive/folders/1_w-pPL2_eh3rTWwWobvA9cy3WrgZXGWh?usp=sharing)  
 [Materiales adicionales](https://drive.google.com/drive/folders/1IBJtLgqVEU-WVStABFkHTUSUxUZfQ5Za?usp=sharing)
 
 ### Día 3: Gestión de proyectos y estructuras de datos
