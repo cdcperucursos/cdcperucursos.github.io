@@ -60,52 +60,52 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 ### Día 2: Introducción a R
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 1
-Materiales adicionales -->
+[Teoría de la clase](https://drive.google.com/drive/folders/1_w-pPL2_eh3rTWwWobvA9cy3WrgZXGWh?usp=sharing)
+<!-- [Ejercicios de práctica]
+[Tarea 1] -->
+[Materiales adicionales](https://drive.google.com/drive/folders/1IBJtLgqVEU-WVStABFkHTUSUxUZfQ5Za?usp=sharing)
 
 ### Día 3: Gestión de proyectos y estructuras de datos
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 2
-Materiales adicionales -->
+<!-- [Teoría de la clase]
+[Ejercicios de práctica]
+[Tarea 3]
+[Materiales adicionales] -->
 
 ### Día 4: Manipulación de datos con dplyr - Parte 1
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 3
-Materiales adicionales -->
+<!-- [Teoría de la clase]
+[Ejercicios de práctica]
+[Tarea 4]
+[Materiales adicionales] -->
 
 ### Día 5: Manipulación de datos con dplyr - Parte 2
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 4
-Materiales adicionales -->
+<!-- [Teoría de la clase]
+[Ejercicios de práctica]
+[Tarea 5]
+[Materiales adicionales] -->
 
 ### Día 6: Manipulación de datos con dplyr - Parte 3
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 5
-Materiales adicionales -->
+<!-- [Teoría de la clase]
+[Ejercicios de práctica]
+[Tarea 6]
+[Materiales adicionales] -->
 
 ### Día 7: Creando gráficas con ggplot2 - Parte 1
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 6
-Materiales adicionales -->
+<!-- [Teoría de la clase]
+[Ejercicios de práctica]
+[Tarea 7]
+[Materiales adicionales] -->
 
 ### Día 8: Creando gráficas con ggplot2 - Parte 2
 
-<!-- Teoría de la clase
-Ejercicios de práctica
-Tarea 7
-Materiales adicionales -->
+<!-- [Teoría de la clase]
+[Ejercicios de práctica]
+[Tarea 8]
+[Materiales adicionales] -->
 
 ### Día 9: Taller Práctico
 
