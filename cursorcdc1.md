@@ -48,8 +48,6 @@ El curso se desarrollará aplicando las siguientes estratégias:
 
 En la siguiente página web, se colgarán materiales del curso, como scripts de R o diapositivas que generen los instructores durante las clases. 
 
-[Materiales del curso]
-
 El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
 
 ### Día 1: Instrucciones Generales
