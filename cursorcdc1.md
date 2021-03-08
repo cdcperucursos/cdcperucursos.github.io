@@ -6,7 +6,7 @@
 
 **Hora: 11 am - 1 pm** 
 
-**Lugar: https://minsa-gob-pe.zoom.us/j/83161297877, código: 323057**
+**Lugar: https://minsa-gob-pe.zoom.us/j/83161297877, código: (por correo)**
 
 Nuestros principales objetivos son los siguientes:
 
