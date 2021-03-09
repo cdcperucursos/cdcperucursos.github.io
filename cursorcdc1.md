@@ -57,11 +57,13 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 **Vídeo sobre como instalar R:** [https://youtu.be/D9Bp11iZssc](https://youtu.be/D9Bp11iZssc) 
 
 [Teoría de la clase](https://drive.google.com/drive/folders/1_w-pPL2_eh3rTWwWobvA9cy3WrgZXGWh?usp=sharing)  
+
 [Materiales adicionales](https://drive.google.com/drive/folders/1IBJtLgqVEU-WVStABFkHTUSUxUZfQ5Za?usp=sharing)
 
 ### Día 2: Introducción a R
 
-[Tarea 2](https://drive.google.com/drive/folders/15gCPmkfudi5photzk-s-GxqH1-2uBwSM?usp=sharing)
+[Tarea 2](https://drive.google.com/drive/folders/15gCPmkfudi5photzk-s-GxqH1-2uBwSM?usp=sharing)  
+
 [Materiales adicionales](https://drive.google.com/drive/folders/1F-AT-wUvYROf-pLELiT3M8VAgiVimpqE?usp=sharing)
 
 ### Día 3: Gestión de proyectos y estructuras de datos
