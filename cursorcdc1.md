@@ -71,8 +71,11 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 ### Día 3: Gestión de proyectos y estructuras de datos
 
 [Teoría de la clase](https://drive.google.com/drive/folders/1RlmEf4MVQNG2zgt_RbKjQC30pXHksZQO?usp=sharing)
+
 [Ejercicios de práctica](https://drive.google.com/drive/folders/14HfAH1lbxMPATaUIsuD5nsHHCW7so4J3?usp=sharing)
+
 [Tarea 3](https://drive.google.com/drive/folders/1yhN5YIZPyvS-EAm1Rx_ronjzRT0kmPEy?usp=sharing)
+
 [Materiales adicionales](https://drive.google.com/drive/folders/15C6b-qwBRrWsruPwUvaw4iknP898kj7z?usp=sharing)
 
 ### Día 4: Manipulación de datos con dplyr - Parte 1
