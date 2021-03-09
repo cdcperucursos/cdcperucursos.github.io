@@ -62,6 +62,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 ### Día 2: Introducción a R
 
+[Ejercicios de práctica](https://drive.google.com/drive/folders/125ezA8OKbX6E7OJPJ7O3NFllpWch54Gw?usp=sharing)
+
 [Tarea 2](https://drive.google.com/drive/folders/15gCPmkfudi5photzk-s-GxqH1-2uBwSM?usp=sharing)  
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1F-AT-wUvYROf-pLELiT3M8VAgiVimpqE?usp=sharing)
