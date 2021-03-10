@@ -50,6 +50,8 @@ En la siguiente página web, se colgarán materiales del curso, como scripts de 
 
 El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
 
+### Cheatsheets/Hojas de Truco
+
 [**Cheatsheets**](https://drive.google.com/drive/folders/1eimvdwQAlDG90YA1OGjKdjCNEbEuDN4W?usp=sharing)
 
 ### Día 1: Instrucciones Generales
