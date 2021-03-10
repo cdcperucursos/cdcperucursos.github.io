@@ -84,10 +84,13 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 ### Día 4: Manipulación de datos con dplyr - Parte 1
 
-<!-- [Teoría de la clase]
-[Ejercicios de práctica]
-[Tarea 4]
-[Materiales adicionales] -->
+[Teoría de la clase](https://drive.google.com/drive/folders/1kuZbJeX3uOMmn3LU7OkQrfWR4wMw98Lz?usp=sharing)
+
+[Ejercicios de práctica](https://drive.google.com/drive/folders/1LVErSVnrXJ4lVci1VT45J47lVirZr8FL?usp=sharing)
+
+[Tarea 4](https://drive.google.com/drive/folders/1hnxgkwo-ZogGzHuspU-bG7RDTNTBUhQD?usp=sharing)
+
+[Materiales adicionales](https://drive.google.com/drive/folders/1Um81-ywNK49WhBV3gXZv_0m7-FjLIp09?usp=sharing)
 
 ### Día 5: Manipulación de datos con dplyr - Parte 2
 
