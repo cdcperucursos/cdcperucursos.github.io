@@ -50,6 +50,8 @@ En la siguiente página web, se colgarán materiales del curso, como scripts de 
 
 El material del curso se encuentra basado en la siguiente referencia de [Software Carpentry](https://swcarpentry.github.io/r-novice-gapminder-es/reference)
 
+[**Cheatsheets**](https://drive.google.com/drive/folders/1eimvdwQAlDG90YA1OGjKdjCNEbEuDN4W?usp=sharing)
+
 ### Día 1: Instrucciones Generales
 
 En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r-project.org/mirrors.html) (escoger cualquier mirror) y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
