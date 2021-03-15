@@ -104,10 +104,13 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 ### Día 6: Manipulación de datos con dplyr - Parte 3
 
-<!-- [Teoría de la clase]
-[Ejercicios de práctica]
-[Tarea 6]
-[Materiales adicionales] -->
+[Teoría de la clase](https://drive.google.com/drive/folders/1p9m6wR3AKzDy6vdVHISarwFDLeekz1Jw?usp=sharing)
+
+[Ejercicios de práctica](https://drive.google.com/drive/folders/1b47BZ8GZRg3feVkP-P9paUMeEdPrFFpq?usp=sharing)
+
+[Tarea 6](https://drive.google.com/drive/folders/1HMTBSXs6hAO6RqddZrQbgf3w9lnyxxmI?usp=sharing)
+
+[Materiales adicionales](https://drive.google.com/drive/folders/18tqXLkOa68SZFWXkgEf0TQ-xtRnzpLJO?usp=sharing)
 
 ### Día 7: Creando gráficas con ggplot2 - Parte 1
 
