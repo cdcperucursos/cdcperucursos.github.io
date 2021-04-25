@@ -75,20 +75,20 @@ El material del curso se encuentra basado en la siguiente referencia de [Softwar
 En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r-project.org/mirrors.html) (escoger cualquier mirror) y un IDE o editor de texto como [RStudio](https://rstudio.com/).** Como manual de instalación, se puede **consultar el siguiente [recurso](/archivos/instalacion.pdf).**
 
 **Vídeo sobre como instalar R:** [https://youtu.be/D9Bp11iZssc](https://youtu.be/D9Bp11iZssc) 
-<!-- 
-[Teoría de la clase](https://drive.google.com/drive/folders/1_w-pPL2_eh3rTWwWobvA9cy3WrgZXGWh?usp=sharing)  
 
-[Materiales adicionales](https://drive.google.com/drive/folders/1IBJtLgqVEU-WVStABFkHTUSUxUZfQ5Za?usp=sharing) -->
+<!-- [Teoría de la clase]
+
+[Materiales adicionales] -->
 
 ### Día 2: Introducción a R
 
-[Teoría de la clase]
+<!-- [Teoría de la clase]
 
 [Ejercicios de práctica]
 
 [Tarea 2]
 
-[Materiales adicionales]
+[Materiales adicionales] -->
 
 ### Día 3: Gestión de proyectos y estructuras de datos
 
