@@ -1,6 +1,6 @@
 ## Bienvenidos al curso de R (nociones básicas!)
 
-**Sílabo del curso: [sílabo](/archivos/silaboupdated.pdf)**
+**Sílabo del curso: [sílabo](/archivos/silabo.pdf)**
 
 **Fecha: 26 Abr. 2021 - 07 May. 2021**
 
