@@ -6,7 +6,7 @@
 
 **Hora: 3 pm - 5 pm** 
 
-**Lugar: https://minsa-gob-pe.zoom.us/j/83161297877, código: (por correo)**
+**Lugar: https://minsa-gob-pe.zoom.us/j/81733231825, código: (por correo)**
 
 Nuestros principales objetivos son los siguientes:
 
