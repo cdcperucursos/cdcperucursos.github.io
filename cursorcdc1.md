@@ -126,7 +126,7 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 [Ejercicios de práctica](https://drive.google.com/drive/folders/1b47BZ8GZRg3feVkP-P9paUMeEdPrFFpq?usp=sharing)
 
-[Tarea 5](https://drive.google.com/drive/folders/1HMTBSXs6hAO6RqddZrQbgf3w9lnyxxmI?usp=sharing)
+[Tarea 6](https://drive.google.com/drive/folders/1HMTBSXs6hAO6RqddZrQbgf3w9lnyxxmI?usp=sharing)
 
 [Materiales adicionales](https://drive.google.com/drive/folders/18tqXLkOa68SZFWXkgEf0TQ-xtRnzpLJO?usp=sharing)
 
