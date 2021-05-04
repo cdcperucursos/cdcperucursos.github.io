@@ -138,7 +138,7 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 [Tarea 7](https://drive.google.com/drive/folders/1xJxJmMiOds8BOhiFAXYr7xnVs4UvIULR?usp=sharing)
 
-[Materiales adicionales]
+[Materiales adicionales](https://drive.google.com/drive/folders/1gynf5ooN-8ulVrysq5c6rPfZUcyscn04?usp=sharing)
 
 ### Día 8: Creando gráficas con ggplot2 - Parte 2
 
