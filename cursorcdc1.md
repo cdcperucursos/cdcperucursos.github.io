@@ -142,11 +142,11 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 ### Día 8: Creando gráficas con ggplot2 - Parte 2
 
-[Teoría de la clase](https://drive.google.com/drive/folders/13V10TF-teY5mguuzbnVFfL1qB9ylwmP_?usp=sharing)
+[Teoría de la clase](https://drive.google.com/drive/folders/1qHzgiFRamDrtBdGzaCPI7DP5JwcEwSuJ?usp=sharing)
 
-[Ejercicios de práctica](https://drive.google.com/drive/folders/1-QJnAQ3WZPKLSnFQUXFaDuyJpJmKcSWD?usp=sharing)
+[Ejercicios de práctica](https://drive.google.com/drive/folders/1yE8j5KI0x-4lpJLD-KqOGH1AloQX-ZnF?usp=sharing)
 
-[Tarea 8](https://drive.google.com/drive/folders/1xJxJmMiOds8BOhiFAXYr7xnVs4UvIULR?usp=sharing)
+[Tarea 8](https://drive.google.com/drive/folders/1G9hLmwJfzDyKEDMml6nMxZgdeUDCn2jg?usp=sharing)
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1gynf5ooN-8ulVrysq5c6rPfZUcyscn04?usp=sharing)
 
