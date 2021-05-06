@@ -80,6 +80,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1IBJtLgqVEU-WVStABFkHTUSUxUZfQ5Za?usp=sharing)
 
+[Clase](https://minsa-gob-pe.zoom.us/rec/share/G1ba2aD8vw6F_2ZjbaO34MXIVdq9gTxjrhWz3LmRE5JOjBgkIe5tdy91lFuUayKL.u-wOkmGbC8US8gq3?startTime=1619464176000)
+
 ### Día 2: Introducción a R
 
 [Teoría de la clase](https://drive.google.com/drive/folders/1wdH-n2BtAhtL9bGXFC1d-Zq0IkiKhCXi?usp=sharing)
@@ -89,6 +91,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 [Tarea 2](https://drive.google.com/drive/folders/15gCPmkfudi5photzk-s-GxqH1-2uBwSM?usp=sharing)
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1F-AT-wUvYROf-pLELiT3M8VAgiVimpqE?usp=sharing)
+
+[Clase](https://minsa-gob-pe.zoom.us/rec/share/qbvNDIx0WpgELnuKYtoN9AO65tb5tjRzJdCHya7WnlXzSFMO8iD_ZWXygTmHxKpy.7lzrLGSrW4-3oZg7?startTime=1619552983000)
 
 ### Día 3: Gestión de proyectos y estructuras de datos
 
@@ -100,6 +104,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 [Materiales adicionales](https://drive.google.com/drive/folders/15C6b-qwBRrWsruPwUvaw4iknP898kj7z?usp=sharing)
 
+[Clase](https://minsa-gob-pe.zoom.us/rec/share/4hvkJobNmrZHD2cfq-QHURcrQaQHEKJ11Om2lX-8ANTk1jRW7oDzj_ObEj5Npa9t.ga2yQwbJLhYZ8T2N?startTime=1619639569000)
+
 ### Día 4: Manipulación de datos con dplyr - Parte 1
 
 [Teoría de la clase](https://drive.google.com/drive/folders/1kuZbJeX3uOMmn3LU7OkQrfWR4wMw98Lz?usp=sharing)
@@ -109,6 +115,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 [Tarea 4](https://drive.google.com/drive/folders/1hnxgkwo-ZogGzHuspU-bG7RDTNTBUhQD?usp=sharing)
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1Um81-ywNK49WhBV3gXZv_0m7-FjLIp09?usp=sharing)
+
+[Clase](https://minsa-gob-pe.zoom.us/rec/share/5rYbRUxzlKfVa0y25Kdx6dGtjkvpk96JDNk4-p4Z-tS0eLMX3ZPtF1m58TwV7yA5._bJy85g9vJfpkX2K?startTime=1619723539000)
 
 ### Día 5: Manipulación de datos con dplyr - Parte 2
 
@@ -120,6 +128,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1ioYQWRKK1RX4-3ZTTXRcsO9tb2lw_Tcc?usp=sharing)
 
+[Clase](https://minsa-gob-pe.zoom.us/rec/share/Jt-a8o27oEaVojTPVoa6Wj_TO91gkK2yLcK4oWjC1MSxyGwxN6z41OAhBoDTtDCE.SlOo19JxCYA2c44_?startTime=1619811770000)
+
 ### Día 6: Manipulación de datos con dplyr - Parte 3
 
 [Teoría de la clase](https://drive.google.com/drive/folders/1p9m6wR3AKzDy6vdVHISarwFDLeekz1Jw?usp=sharing)
@@ -129,6 +139,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 [Tarea 6](https://drive.google.com/drive/folders/1HMTBSXs6hAO6RqddZrQbgf3w9lnyxxmI?usp=sharing)
 
 [Materiales adicionales](https://drive.google.com/drive/folders/18tqXLkOa68SZFWXkgEf0TQ-xtRnzpLJO?usp=sharing)
+
+[Clase]
 
 ### Día 7: Creando gráficas con ggplot2 - Parte 1
 
@@ -140,6 +152,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1gynf5ooN-8ulVrysq5c6rPfZUcyscn04?usp=sharing)
 
+[Clase]
+
 ### Día 8: Creando gráficas con ggplot2 - Parte 2
 
 [Teoría de la clase](https://drive.google.com/drive/folders/1qHzgiFRamDrtBdGzaCPI7DP5JwcEwSuJ?usp=sharing)
@@ -149,6 +163,8 @@ En el desarrollo del siguiente curso, se **requiere descargar [R](https://cran.r
 [Tarea 8](https://drive.google.com/drive/folders/1G9hLmwJfzDyKEDMml6nMxZgdeUDCn2jg?usp=sharing)
 
 [Materiales adicionales](https://drive.google.com/drive/folders/1gynf5ooN-8ulVrysq5c6rPfZUcyscn04?usp=sharing)
+
+[Clase]
 
 ### Día 9: Taller Práctico
 
